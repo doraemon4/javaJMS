@@ -1,4 +1,4 @@
-package com.cn.activemq;
+package com.cn.activemq.queue;
 
 import javax.jms.JMSException;
 import javax.jms.Message;
